@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ThinkAnalysis Inc",
+    "description": "",
+    "home_page_url": "https://thinkanalysis.github.io/web",
+    "feed_url": "https://thinkanalysis.github.io/web/feed.json",
+    "user_comment": "",
+    "icon": "https://thinkanalysis.github.io/web/media/website/color_logo_transparent_background_small.png",
+    "author": {
+        "name": "ThinkAnalysis Inc"
+    },
+    "items": [
+    ]
+}
