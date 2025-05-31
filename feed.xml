@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ThinkAnalysis Inc</title>
-    <link href="https://thinkanalysis.github.io/web/feed.xml" rel="self" />
-    <link href="https://thinkanalysis.github.io/web" />
+    <link href="https://thinkanalysis.ca/feed.xml" rel="self" />
+    <link href="https://thinkanalysis.ca" />
     <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>ThinkAnalysis Inc</name>
     </author>
-    <id>https://thinkanalysis.github.io/web</id>
+    <id>https://thinkanalysis.ca</id>
 
 </feed>
